@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Remotion build files
+build/
+
+# Environment variables
+.env
